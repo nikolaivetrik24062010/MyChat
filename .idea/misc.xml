@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Vetrik/AndroidStudioProjects/MyChat/app/src/main/res/drawable/circle_background.xml" value="0.1445" />
+        <entry key="..\:/Users/Vetrik/AndroidStudioProjects/MyChat/app/src/main/res/drawable/user_image.xml" value="0.1435" />
+        <entry key="..\:/Users/Vetrik/AndroidStudioProjects/MyChat/app/src/main/res/layout/activity_chat.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Vetrik/AndroidStudioProjects/MyChat/app/src/main/res/layout/activity_main.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/Vetrik/AndroidStudioProjects/MyChat/app/src/main/res/layout/activity_sign_in.xml" value="0.14285714285714285" />
+        <entry key="..\:/Users/Vetrik/AndroidStudioProjects/MyChat/app/src/main/res/layout/activity_user_list.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Vetrik/AndroidStudioProjects/MyChat/app/src/main/res/layout/message_item.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/Vetrik/AndroidStudioProjects/MyChat/app/src/main/res/layout/user_item.xml" value="0.19205298013245034" />
+        <entry key="..\:/Users/Vetrik/AndroidStudioProjects/MyChat/app/src/main/res/menu/main_menu.xml" value="0.2857142857142857" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
